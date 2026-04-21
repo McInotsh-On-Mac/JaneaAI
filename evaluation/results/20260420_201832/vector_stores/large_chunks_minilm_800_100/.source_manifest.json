@@ -1,0 +1,63 @@
+{
+  "source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs",
+  "embeddings_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 800,
+  "chunk_overlap": 100,
+  "pdf_files": [
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 4.pdf",
+      "size": 3413565,
+      "mtime_ns": 1776729359144827758
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 5.pdf",
+      "size": 1238273,
+      "mtime_ns": 1776729359148674095
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 6.pdf",
+      "size": 801291,
+      "mtime_ns": 1776729359140164628
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 7.pdf",
+      "size": 73634,
+      "mtime_ns": 1776729359128622907
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 8.pdf",
+      "size": 89906,
+      "mtime_ns": 1776729359154290976
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health.pdf",
+      "size": 468113,
+      "mtime_ns": 1776729359162456193
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health2.pdf",
+      "size": 1160283,
+      "mtime_ns": 1776729359132277036
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "size": 3633801,
+      "mtime_ns": 1776729359136662291
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 10.pdf",
+      "size": 159252,
+      "mtime_ns": 1776729359151585223
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "size": 3884450,
+      "mtime_ns": 1776729359158864481
+    },
+    {
+      "path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental_Health_Document.pdf",
+      "size": 128148,
+      "mtime_ns": 1776729359120411273
+    }
+  ]
+}

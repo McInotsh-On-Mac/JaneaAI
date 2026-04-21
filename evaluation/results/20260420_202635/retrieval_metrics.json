@@ -1,0 +1,52 @@
+{
+  "rows": [
+    {
+      "name": "baseline_minilm_500_50",
+      "metrics": {
+        "n_queries": 8,
+        "recall_at_1": 0.125,
+        "recall_at_3": 0.375,
+        "recall_at_5": 0.375,
+        "mrr": 0.25,
+        "avg_latency_ms": 261.0753,
+        "p95_latency_ms": 1624.6128
+      }
+    },
+    {
+      "name": "small_chunks_minilm_300_50",
+      "metrics": {
+        "n_queries": 8,
+        "recall_at_1": 0.25,
+        "recall_at_3": 0.5,
+        "recall_at_5": 0.5,
+        "mrr": 0.3542,
+        "avg_latency_ms": 89.5253,
+        "p95_latency_ms": 133.957
+      }
+    },
+    {
+      "name": "large_chunks_minilm_800_100",
+      "metrics": {
+        "n_queries": 8,
+        "recall_at_1": 0.125,
+        "recall_at_3": 0.375,
+        "recall_at_5": 0.375,
+        "mrr": 0.2292,
+        "avg_latency_ms": 41.8389,
+        "p95_latency_ms": 72.2334
+      }
+    },
+    {
+      "name": "bge_small_500_50",
+      "metrics": {
+        "n_queries": 8,
+        "recall_at_1": 0.0,
+        "recall_at_3": 0.25,
+        "recall_at_5": 0.25,
+        "mrr": 0.0833,
+        "avg_latency_ms": 62.6974,
+        "p95_latency_ms": 103.939
+      }
+    }
+  ]
+}

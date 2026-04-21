@@ -1,0 +1,197 @@
+{
+  "count": 24,
+  "rows": [
+    {
+      "id": 1,
+      "query": "What does the document say about other, significant, mental, health, complaints?",
+      "reference_excerpt": "OTHER SIGNIFICANT MENTAL HEALTH COMPLAINTS This module should not be considered for people who meet the criteria for any of the mhGAP priority conditions (except self-harm). This module should only be used after explicitly ruling out depression. This module should be used when helping adults. In case the person is a child or adolescent, go to \u00bb CMH. This module aims to provide basic guidance on management of a range of mental health complaints not covered elsewhere in this guide. Some of these complaints may be similar to depression, but upon closer examination are distinct from the conditions covered in this guide. Other mental health complaints are considered significant when they impair daily functioning or when the person seeks help for them. Other mental health complaints can be due to stress. OTHER SIGNIFICANT MENTAL HEALTH COMPLAINTS 141",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 148
+    },
+    {
+      "id": 2,
+      "query": "What does the document say about part, chapter, trauma, specific, services?",
+      "reference_excerpt": "Part 1, Chapter 6\u2014Trauma -Specific Services Beyond Trauma: A Healing Journey for Women Beyond Trauma (Covington, 2003) is a curric\u00ad ulum for women\u2019s services based on theory, research, and clinical experience. It was devel\u00ad oped for use in residential, outpatient, and correctional settings; domestic violence pro\u00ad grams; and mental health clinics. It uses behavioral techniques and expressive arts and is based on relational therapy. Although the materials are designed for trauma treatment, the connection between trauma and substance abuse in women\u2019s lives is a theme throughout. Beyond Trauma has a psychoeducational com\u00ad ponent that defines trauma by way of its pro\u00ad cess as well as its impact on the inner self (thoughts, feelings, beliefs, values) and the outer self (behavior and relationships, includ\u00ad ing parenting). Coping skills are emphasized; specific exercises develop emotional wellness. Concurrent Treatment of PTSD and Cocaine Dependence Concurrent Treatment of PTSD and Cocaine Dep",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 170
+    },
+    {
+      "id": 3,
+      "query": "What does the document say about trauma-informed, care, behavioral, health, services?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services to child welfare and mental health profession\u00ad als about programs, research, laws and policies, training approaches, and statistics regarding child welfare, child abuse and neglect, and adoption. CWIG offers educators\u2019 toolkits for preventing and responding to child abuse and neglect, a function to search State statutes about child abuse and neglect, and logic model builder toolkits for program administrators. Child Welfare League of America http://www.cwla.org 1726 M Street NW Suite 500 Washington DC, 20036 Phone: 202-688-4200 Fax: 202-833-1689 Through its member child welfare agencies, the Child Welfare League of America devel\u00ad ops and disseminates practice standards as benchmarks for high-quality services that pro\u00ad tect children and youth; promotes high-quality services through training, consultation, confer\u00ad ences, and publications; formulates and pro\u00ad motes public policies that contribute to the well-being of children and youth; e",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 283
+    },
+    {
+      "id": 4,
+      "query": "What does the document say about example, dif, ficult, leave, house?",
+      "reference_excerpt": "Part 1, Chapter 3\u2014 Unde rstanding the Impact of Trauma help individuals navigate daily life (Janoff- Bulman, 1992). For example, it would be dif\u00ad ficult to leave the house in the morning if you believed that the world was not safe, that all people are dangerous, or that life holds no promise. Belief that one\u2019s efforts and inten\u00ad tions can protect oneself from bad things makes it less likely for an individual to per\u00ad ceive personal vulnerability. However, trau\u00ad matic events\u2014particularly if they are unexpected\u2014can challenge such beliefs. Let\u2019s say you always considered your driving time as \u201cyour time\u201d\u2014and your car as a safe place to spend that time. Then someone hits you from behind at a highway entrance. Al\u00ad most immediately, the accident affects how you perceive the world, and from that moment onward, for months following the crash, you feel unsafe in any car. You become hypervigi\u00ad lant about other drivers and perceive that oth\u00ad er cars are drifting into your lane or failing to stop at",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 88
+    },
+    {
+      "id": 5,
+      "query": "What does the document say about psychoses, communication, safety, rst, remain?",
+      "reference_excerpt": "PSYCHOSES COMMUNICATION Safety is \ufb01rst! Remain calm and encourage the patient to talk about his or her concerns. Use a calm voice and try to address the concerns if possible. Listen attentively. Devote time to the person. Never laugh at the person. Do not be aggressive back. Try to \ufb01nd the source of the problem and solutions for the person. Involve carers and other staff members. Remove from the situation anyone who may be a trigger for the aggression. If all possibilities have been exhausted and the person is still aggressive, it may be necessary to use medication (if available) to prevent injury. SEDATION AND USE OF MEDICATION Sedate as appropriate to prevent injury. For agitation due to psychosis or mania, consider use of haloperidol 2mg p.o./i.m. hourly up to 5 doses (maximum 10 mg). Caution: high doses of haloperidol can cause dystonic reactions. Use biperiden to treat acute reactions. For agitation due to ingestion of substances, such as alcohol/sedative withdrawal or stimulant i",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 52
+    },
+    {
+      "id": 6,
+      "query": "What does the document say about memories, trauma, points, ounselors, remember?",
+      "reference_excerpt": "Memories of Trauma Points for c ounselors to remember are: \u2022 Some people are not able to completely remember past events, particularly events that occurred during high-stress and de\u00ad stabilizing moments. \u2022 In addition to exploring the memories themselves, it can be beneficial to explore how a memory of an event helps the client understand his or her feeling, thinking, and behaving in the present. \u2022 Persistently trying to recall all the details of a traumatic event can impair focus on the present. Part 1, Chapter 5\u2014 Clin ical Issues Across Services mental disorders all influence length of treat\u00ad ment. External factors, such as transportation and childcare, caps on insurance coverage, and limitations in professional resources, can also affect length of treatment. In general, longer treatment experiences should be expected for clients who have histories of multiple or early traumas, meet diagnostic criteria for multiple Axis I or Axis II diagnoses, and/or require intensive case management",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 150
+    },
+    {
+      "id": 7,
+      "query": "What does the document say about trauma-informed, care, behavioral, health, services?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services Weiss, D. & Marmar, C. (1997). The Impact of Event Scale-revised. In J. Wilson & T. Keane (Eds.), Assessing psychological trauma and PTSD. (pp. 399\u2013411). New York: Guildford Press. Weiss, L., Fabri, A., McCoy, K., Coffin, P ., Netherland, J., & Finkelstein, R. (2002). A vulnerable population in a time of crisis: Drug users and the attacks on the World Trade Center. Journal of Urban Health: Bulletin of the New York Academy of Medicine, 79, 392\u2013403. Wessely, S., Bryant, R. A., Greenberg, N., Earnshaw, M., Sharpley, J., & Hughes, J. H. (2008). Does psychoeducation help prevent posttraumatic psychological distress? Psychiatry: Interpersonal and Biological Processes, 71, 287\u2013302. Westermeyer, J. (2004). Cross-cultural aspects of substance abuse. In M. Galanter & H. D. Kleber (Eds.), The American Psychiatric Publishing textbook of substance abuse treatment. (3rd ed.). (pp. 89\u201398). Washington, DC: American Psychiatric Publishing. Whitbeck, L.",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 267
+    },
+    {
+      "id": 8,
+      "query": "What does the document say about screening, only, good, actions, taken?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services Practical Issues Is the instrument freely and readily available, or is there a fee? Is costly and extensive train\u00ad ing required to administer it? Is the instru\u00ad ment too lengthy to be used in the clinical setting? Is it easily administered and scored with accompanying manuals and/or other training materials? How will results be pre\u00ad sented to or used with the client? Is technical support available for difficulties in administra\u00ad tion, scoring, or interpretation of results? Is special equipment required such as a micro\u00ad phone, a video camera, or a touch-screen com\u00ad puter with audio? Trauma-Informed Screening and Assessment The following sections focus on initial screen\u00ad ing. For more information on screening and assessment tools, including structured inter\u00ad views, see Exhibit 1.4-2. Screening is only as good as the actions taken afterward to address a positive screen (when clients acknowledge that they experience symptoms or have en\u00ad co",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 127
+    },
+    {
+      "id": 9,
+      "query": "What does the document say about bruises, burns, strangulation, marks, marks?",
+      "reference_excerpt": "ASSESS THE HOME ENVIRONMENT 6 CMH 1 82 Are the emotional, behavioural or developmental problems a reaction to or aggravated by a distressing or frightening situation? Assess for: Clinical features or any element in the clinical history that suggest maltreatment or exposure to violence (see CLINICAL TIP). Any recent or ongoing severe stressors (e.g. illness or death of a family member, dif\ufb01cult living and \ufb01nancial circumstances, being bullied or harmed). CLINICAL TIP Ask the child/adolescent directly about these exposures when developmentally appropriate and safe to do so (e.g. not in the presence of a carer who may have committed the maltreatment). Adolescents should always be offered the opportunity to be seen on their own, without carers present. CLINICAL TIP: RED FLAGS FOR CHILD MALTREATMENT CLINICAL FEATURES Physical abuse \u2013 Injuries (e.g. bruises, burns, strangulation marks or marks from a belt, whip, switch or other object) \u2013 Any serious or unusual injury without an explanation o",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 89
+    },
+    {
+      "id": 10,
+      "query": "What does the document say about trauma-informed, care, behavioral, health, services?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services advocacy organization, formed in 1970, to conduct Federal advocacy activities, represent\u00ad ing the industry on Capitol Hill and before Federal agencies. It also offers a national con\u00ad sulting service program, various publications, and an annual training conference. The Na\u00ad tional Council Magazine, 2011, Issue 2, focus\u00ad es on trauma-informed behavioral health services. The National Council has offered a Learning Community for Adoption of Trauma-Informed Practices, funded by SAMHSA. National Institute on Drug Abuse http://drugabuse.gov National Institute on Drug Abuse National Institutes of Health 6001 Executive Boulevard Room 5213, MSC 9561 Bethesda, MD 20892-9561 Phone: 301-443-1124 Email: information@nida.nih.gov The National Institute on Drug Abuse\u2019s (NIDA) mission is to lead the Nation in bringing the power of science to bear on drug abuse and addiction. NIDA\u2019s goal is to ensure that science, not ideology or anecdote, forms the found",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 277
+    },
+    {
+      "id": 11,
+      "query": "What does the document say about advice, counselors, strategies, conduct, sleep?",
+      "reference_excerpt": "Advice to Counselors: Strategies To Conduct a Sleep Intervention Strategy #1: Conduct a sleep history assessment focused first on the client\u2019s perception of his or her sleep patterns. Assess whether there is difficulty initiating or staying asleep, a history of frequent or early morning awakenings, physically restless sleep, sleepwalking, bedtime aversion, and/or disrup\u00ad tive physical and emotional states upon awakening (e.g., confusion, agitation, feeling unrested). Also determine total sleep time, pattern of nightmares, and use of medications, alcohol, and/or caffeine (see Moul, Hall, Pikonis, & Buysse, 2004, for a review of self-report measures). Strategy #2: Use a sleep hygiene measure to determine the presence of habits that typically inter\u00ad fere with sleep (e.g., falling asleep while watching television). The National Sleep Foundation Web site (http://www.sleepfoundation.org) provi des simple steps for promoting good sleep hygiene. Strategy #3: Provide education on sleep hygiene ",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 143
+    },
+    {
+      "id": 12,
+      "query": "What does the document say about chapter, types, trauma, chara, cteristics?",
+      "reference_excerpt": "IN THIS CHAPTER \u2022 Types of Trauma \u2022 Chara cteristics of Trauma \u2022 Individual and Sociocultural Features Trauma Awareness2 Traumatic experiences typically do not result in long -term im\u00ad pairment for most individuals. It is normal to experience such events across the lifespan; often, individuals, families, and co m\u00ad munities respond to them with resilience. This chapter explores several main elements that influence why people respond differ\u00ad ently to trauma. Using the social -ecological model outlined in Part 1, Chapter 1, this chapter explores some of the contextual and systemic dynamics that influence individual and community perceptions of trauma and its impact. The three main foci are: types of trauma, objective and subjective characteristics of trauma, and individual and sociocultural features that serve as risk or pr o\u00ad tective factors. This chapter\u2019s main objective is to highlight the key characteri s\u00ad tics of traumatic experiences. Trauma-informed behavioral health service provid",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 54
+    },
+    {
+      "id": 13,
+      "query": "What does the document say about epilepsy, likely, does, not, meet?",
+      "reference_excerpt": "EPILEPSY 61 Has the person had at least two seizures on two different days in the past year? EPILEPSY is likely Does not meet criteria for epilepsy Maintenance antiepileptic medication not necessary Follow-up in 3 months and assess for possible epilepsy Asses for underlying cause. Do a physical examination. Are any of the following present? \u2013 Birth asphyxia or trauma history \u2013 Head injury \u2013 Infection of the brain \u2013 Family history of seizures Does the person have epilepsy? 3 REFER TO SPECIALIST FOR FURTHER EVALUATION OF CAUSE CLINICAL TIP Physical examination should include neurologic examination and evaluate for any focal de\ufb01cits; e.g. any asymmetry in strength or re\ufb02exes. CLINICAL TIP Ask about: \u2013 How frequent are the episodes? \u2013 How many in the past year? \u2013 When was the last episode?",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 68
+    },
+    {
+      "id": 14,
+      "query": "What does the document say about advice, clinical, supervisors, recognizing, secondary?",
+      "reference_excerpt": "Advice to Clinical Supervisors: Recognizing Secondary Traumatization Some counselor behaviors that demonstrate inconsistency to clients may be outward mani\u00ad festations of secondary traumatization, and they should be discussed with counselors through a trauma-informed lens. It is impera\u00ad tive that clinical supervisors provide a non\u00ad judgmental, safe context in which counselors can discuss these behaviors without fear of reprisal or reprimand. Clinical supervisors should work collaboratively with supervisees to help them understand their behavior and en\u00ad gage in self-care activities that lessen the stress that may be contributing to these behaviors. STS is a trauma - related stress reaction and set of symptoms resulting from exposure to another individual\u2019s traumatic experiences rather than from exposure directly to a traumatic event. Trauma-Informed Care in Behavioral Health Services concluded that be- havioral health pro- fessionals\u2019 experi ence of STS is a contrib\u00ad uting factor in sta",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 215
+    },
+    {
+      "id": 15,
+      "query": "What does the document say about each, tip, involves, development, topic-specific?",
+      "reference_excerpt": ". What Is a TIP? Treatment Improvement Protocols (TIPs) are developed by the Substance Abuse and Mental Health Services Administration (SAMHSA) within the U.S. Department of Health and Human Services (HHS). Each TIP involves the development of topic-specific best practice guidelines for the prevention and treatment of substance use and mental disorders. TIPs draw on the experience and knowledge of clinical, research, and administrative experts of various forms of treatment and prevention. TIPs are distributed to facilities and individuals across the country. Published TIPs can be accessed via the Internet at http://store.samhsa.gov. Although each consensus-based TIP strives to include an evidence base for the practices it rec\u00ad ommends, SAMHSA recognizes that behavioral health is continually evolving, and research fre\u00ad quently lags behind the innovations pioneered in the field. A major goal of each TIP is to convey \u201cfront-line\u201d information quickly but responsibly. If research supports a",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 12
+    },
+    {
+      "id": 16,
+      "query": "What does the document say about cmh, psychoeducation, developmental, delay, disorder?",
+      "reference_excerpt": "88 CMH 2 2.4 Psychoeducation for developmental delay/disorder ENCOURAGE THE CARER TO: Learn what the child\u2019s strengths and weaknesses are and how they learn best, what is stressful to the child and what makes him/her happy, and what causes problem behaviours and what prevents them. Learn how the child communicates and responds (using words, gestures, non-verbal expression, and behaviours). Help the child develop by engaging with her/him in everyday activities and play. Children learn best during activities that are fun and positive. Involve them in everyday life, starting with simple tasks, one at a time. Break complex activities down into simple steps so that the child can learn and be rewarded one step at a time. Make predictable daily routines by scheduling regular times for eating, playing, learning, and sleeping. Keep their environment stimulating: avoid leaving the child alone for hours without someone to talk to and limit time spent watching TV and playing electronic games. Keep",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 95
+    },
+    {
+      "id": 17,
+      "query": "What does the document say about part, chapter, trauma, informed, care?",
+      "reference_excerpt": "Part 1, Chapter 1\u2014Trauma -Informed Care: A Sociocultural Perspective Exhibit 1.1-2: A Social-Ecological Model for Understanding Trauma and Its Effects prevention activities. In addition, culture, de\u00ad velopmental processes (including the devel\u00ad opmental stage or characteristics of the individual and/or community), and the specific era when the trauma(s) occurred can signifi\u00ad cantly influence how a trauma is perceived and processed, how an individual or community engages in help-seeking, and the degree of accessibility, acceptability, and availability of individual and community resources. Depending on the developmental stage and/or processes in play, children, adolescents, and adults will perceive, interpret, and cope with traumatic experiences differently. For example, a child may view a news story depicting a traumatic event on television and believe that the trauma is recurring every time they see the scene replayed. Similarly, the era in which one lives and the timing of the trauma ",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 36
+    },
+    {
+      "id": 18,
+      "query": "What does the document say about epilepsy, may, occur, people, who?",
+      "reference_excerpt": "51 Epilepsy is a chronic noncommunicable disorder of the brain, characterized by recurrent unprovoked seizures. Epilepsy is one of the most common neurological disorders and with proper treatment, can be well controlled in the majority of people. Epilepsy has many causes. It may be genetic. Epilepsy may occur in people who have a past history of birth trauma, brain injury (including head trauma and strokes), or brain infections. In some people, no cause may be identified. Seizures are caused by abnormal electrical activity in the brain and are of two types: convulsive and non-convulsive. Non-convulsive epilepsy has features such as change in mental status while con- vulsive epilepsy has features such as sudden abnormal movements, including stiffening and shaking of the body. The latter is associated with greater stigma and higher morbidity and mortality. This module covers only convulsive epilepsy. EPILEPSY",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 58
+    },
+    {
+      "id": 19,
+      "query": "What does the document say about case, illustrations, quecreek, mine, flood?",
+      "reference_excerpt": "Case Illustrations: Quecreek Mine Flood and Greensburg\u2019s Tornado Quecreek Mine Flood The year following the rescue of nine miners from the Quecreek mine in western Pennsylvania in 2002 was a difficult one for residents of Somerset County. The dazzle of publicity surrounding a handful of workers from a small town, tension between miners and rescuers, and animosity over money for movie and book deals, in addition to the trauma itself, resulted in a rescuer\u2019s suicide, a number of miners having trauma-related symptoms, and several rescuers needing to seek treatment for posttraumatic stress disorder (PTSD; Goodell, 2003). Greensburg\u2019s To rnado Greensburg, a small town in southern Kansas, was hit by a large tornado in 2007 that killed 11 resi\u00ad dents and leveled 95 percent of the town while causing severe damage to the remaining 5 percent. Families and community members experienced significant grief and traumatic stress after the disas\u00ad ter. Yet today, Greensburg is rebuilding with a focus on",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 57
+    },
+    {
+      "id": 20,
+      "query": "What does the document say about pmgeneralized, anxiety, disorder, you, need?",
+      "reference_excerpt": "4/20/26, 7:49 PMGeneralized Anxiety Disorder: What You Need to Know - National Institute of Mental Health (NIMH) Page 4 of 6https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad Anti-anxiety medications, such as benzodiazepines and buspirone SSRI and SNRI antidepressants are commonly used to treat depression, but they also can help treat the symptoms of GAD. They may take several weeks to start working. These medications also may cause side e#ects, such as headaches, nausea, or di\"culty sleeping. These side e#ects are usually not severe for most people, especially if the dose starts low and is increased slowly over time. Benzodiazepines, which are anti-anxiety sedative medications, also can be used to manage severe forms of GAD. These medications can be very e#ective in rapidly decreasing anxiety, but some people build up a tolerance to them and need increasing doses to get the same e#ect. Some people even become dependent on them. Therefore, a health care provi",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 7.pdf",
+      "target_source_file": "Mental Health 7.pdf",
+      "target_page": 3
+    },
+    {
+      "id": 21,
+      "query": "What does the document say about pmgeneralized, anxiety, disorder, you, need?",
+      "reference_excerpt": "4/20/26, 7:49 PMGeneralized Anxiety Disorder: What You Need to Know - National Institute of Mental Health (NIMH) Page 3 of 6https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad What other illnesses can co-occur with generalized anxiety disorder? Some people with GAD have other mental and physical health disorders or conditions, including depression, other anxiety disorders, post-traumatic stress disorder, chronic pain syndromes, cardiovascular problems, or suicidal thoughts or behaviors. GAD is also commonly associated with alcohol and substance misuse. The presence of multiple disorders can make treatment more complex, and people with GAD and co-occurring mental disorders may bene\ufb01t from a comprehensive treatment plan that addresses all aspects of their mental health. If you or someone you know is struggling or having thoughts of suicide, call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org . In life-threatening situations, call 911",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health 7.pdf",
+      "target_source_file": "Mental Health 7.pdf",
+      "target_page": 2
+    },
+    {
+      "id": 22,
+      "query": "What does the document say about note, good, rauma, measure, identifies?",
+      "reference_excerpt": "Exhibit 1.4-2: Key Areas of Trauma Screening and Assessment Trauma Key question: Did the client experience a trauma? Examples of measures: Life Stressor Checklist-Revised (Wolfe & Kimerling, 1997); Trauma History Questionnaire (Green, 1996); Traumatic Life Events Questionnaire (Kubany et al., 2000). Note: A good t rauma measure identifies events a person experienced (e.g., rape, assault, accident) and also evaluates other trauma-related symptoms (e.g., presence of fear, helplessness, or horror). Acute Stress Disorder (ASD) and PTSD Ke y question: Does the client meet criteria for ASD or PTSD? Examples of measures: Clinician-Administered PTSD Scale (CAPS; Blake et al., 1990); Modified PTSD Symptom Scale (Falsetti, Resnick, Resnick, & Kilpatrick, 1993); PTSD Checklist (Weathers, Litz, Herman, Huska, & Keane, 1993); Stanford Acute Stress Reaction Questionnaire (Cardena, Koopman, Classen, Waelde, & Spiegel, 2000). Note: A PTSD diagnosis requires the person to meet cri teria for having expe",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 126
+    },
+    {
+      "id": 23,
+      "query": "What does the document say about table, review, adherence, side, effects?",
+      "reference_excerpt": "TABLE 4: Review adherence, side effects and dosing based on clinical situation/ presentation CLINICAL SITUATION ACTION The person is not tolerating antipsychotic medication, i.e. the person has extrapyramidal symptoms (EPS) or other serious side effects Reduce the dose of antipsychotic medication. If side-effects persist, consider switching to another antipsychotic medication. Consider adding anticholinergic medication for short-term use to treat EPS if these strategies fail or if symptoms are severe (see Table 2). Adherence to treatment is unsatisfactory Discuss reasons for non-adherence with the person and carers. And provide information regarding importance of medication. Consider depot/long-acting injectable antipsychotic medication as an option after discussing possible side effects of oral versus depot preparations. Treatment response is inadequate (i.e. symptoms persist or worsen) despite adherence to medication Verify that the person is receiving an effective dose of medication",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 51
+    },
+    {
+      "id": 24,
+      "query": "What does the document say about trauma-informed, services, service, systems, trauma-informed?",
+      "reference_excerpt": "Trauma-Informed Services and Service Systems \u201cA trauma-informed service system and/or organization is one in which all components of the system have been reconsidered and evaluated in the light of a basic understanding of the role that violence and trauma play in the lives of people seeking mental health and addiction servic es. A \u2018trauma\u00ad informed\u2019 organizational environment is capable of supporting and sustaining \u2018trauma-specific\u2019 ser\u00ad vices as they develop. A trauma-informed system recognizes that trauma results in multiple vulnera\u00ad bilities and affects many aspects of a survivor\u2019s life over the lifespan, and therefore coordinates and integrates trauma-related activities and training with other systems of care serving trauma survivors. A basic understanding of trauma and trauma dynamics\u2026should be held by all staff and should be used to design systems of services in a manner that accommodates the vulnerabilities of trauma sur\u00ad vivors and allows services to be delivered in a way that ",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 182
+    }
+  ]
+}

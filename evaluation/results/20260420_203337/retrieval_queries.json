@@ -1,0 +1,69 @@
+{
+  "count": 8,
+  "rows": [
+    {
+      "id": 1,
+      "query": "What does the document say about other, significant, mental, health, complaints?",
+      "reference_excerpt": "OTHER SIGNIFICANT MENTAL HEALTH COMPLAINTS This module should not be considered for people who meet the criteria for any of the mhGAP priority conditions (except self-harm). This module should only be used after explicitly ruling out depression. This module should be used when helping adults. In case the person is a child or adolescent, go to \u00bb CMH. This module aims to provide basic guidance on management of a range of mental health complaints not covered elsewhere in this guide. Some of these complaints may be similar to depression, but upon closer examination are distinct from the conditions",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 148
+    },
+    {
+      "id": 2,
+      "query": "What does the document say about part, chapter, trauma, specific, services?",
+      "reference_excerpt": "Part 1, Chapter 6\u2014Trauma -Specific Services Beyond Trauma: A Healing Journey for Women Beyond Trauma (Covington, 2003) is a curric\u00ad ulum for women\u2019s services based on theory, research, and clinical experience. It was devel\u00ad oped for use in residential, outpatient, and correctional settings; domestic violence pro\u00ad grams; and mental health clinics. It uses behavioral techniques and expressive arts and is based on relational therapy. Although the materials are designed for trauma treatment, the connection between trauma and substance abuse in women\u2019s lives is a theme throughout. Beyond Trauma has",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 170
+    },
+    {
+      "id": 3,
+      "query": "What does the document say about trauma-informed, care, behavioral, health, services?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services to child welfare and mental health profession\u00ad als about programs, research, laws and policies, training approaches, and statistics regarding child welfare, child abuse and neglect, and adoption. CWIG offers educators\u2019 toolkits for preventing and responding to child abuse and neglect, a function to search State statutes about child abuse and neglect, and logic model builder toolkits for program administrators. Child Welfare League of America http://www.cwla.org 1726 M Street NW Suite 500 Washington DC, 20036 Phone: 202-688-4200 Fax: 202-833-16",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 283
+    },
+    {
+      "id": 4,
+      "query": "What does the document say about example, dif, ficult, leave, house?",
+      "reference_excerpt": "Part 1, Chapter 3\u2014 Unde rstanding the Impact of Trauma help individuals navigate daily life (Janoff- Bulman, 1992). For example, it would be dif\u00ad ficult to leave the house in the morning if you believed that the world was not safe, that all people are dangerous, or that life holds no promise. Belief that one\u2019s efforts and inten\u00ad tions can protect oneself from bad things makes it less likely for an individual to per\u00ad ceive personal vulnerability. However, trau\u00ad matic events\u2014particularly if they are unexpected\u2014can challenge such beliefs. Let\u2019s say you always considered your driving time as \u201cyour",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 88
+    },
+    {
+      "id": 5,
+      "query": "What does the document say about psychoses, communication, safety, rst, remain?",
+      "reference_excerpt": "PSYCHOSES COMMUNICATION Safety is \ufb01rst! Remain calm and encourage the patient to talk about his or her concerns. Use a calm voice and try to address the concerns if possible. Listen attentively. Devote time to the person. Never laugh at the person. Do not be aggressive back. Try to \ufb01nd the source of the problem and solutions for the person. Involve carers and other staff members. Remove from the situation anyone who may be a trigger for the aggression. If all possibilities have been exhausted and the person is still aggressive, it may be necessary to use medication (if available) to prevent in",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental Health3.pdf",
+      "target_source_file": "Mental Health3.pdf",
+      "target_page": 52
+    },
+    {
+      "id": 6,
+      "query": "What does the document say about memories, trauma, points, ounselors, remember?",
+      "reference_excerpt": "Memories of Trauma Points for c ounselors to remember are: \u2022 Some people are not able to completely remember past events, particularly events that occurred during high-stress and de\u00ad stabilizing moments. \u2022 In addition to exploring the memories themselves, it can be beneficial to explore how a memory of an event helps the client understand his or her feeling, thinking, and behaving in the present. \u2022 Persistently trying to recall all the details of a traumatic event can impair focus on the present. Part 1, Chapter 5\u2014 Clin ical Issues Across Services mental disorders all influence length of treat",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 150
+    },
+    {
+      "id": 7,
+      "query": "What does the document say about trauma-informed, care, behavioral, health, services?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services Weiss, D. & Marmar, C. (1997). The Impact of Event Scale-revised. In J. Wilson & T. Keane (Eds.), Assessing psychological trauma and PTSD. (pp. 399\u2013411). New York: Guildford Press. Weiss, L., Fabri, A., McCoy, K., Coffin, P ., Netherland, J., & Finkelstein, R. (2002). A vulnerable population in a time of crisis: Drug users and the attacks on the World Trade Center. Journal of Urban Health: Bulletin of the New York Academy of Medicine, 79, 392\u2013403. Wessely, S., Bryant, R. A., Greenberg, N., Earnshaw, M., Sharpley, J., & Hughes, J. H. (2008). Do",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 267
+    },
+    {
+      "id": 8,
+      "query": "What does the document say about screening, only, good, actions, taken?",
+      "reference_excerpt": "Trauma-Informed Care in Behavioral Health Services Practical Issues Is the instrument freely and readily available, or is there a fee? Is costly and extensive train\u00ad ing required to administer it? Is the instru\u00ad ment too lengthy to be used in the clinical setting? Is it easily administered and scored with accompanying manuals and/or other training materials? How will results be pre\u00ad sented to or used with the client? Is technical support available for difficulties in administra\u00ad tion, scoring, or interpretation of results? Is special equipment required such as a micro\u00ad phone, a video camera, o",
+      "target_source_path": "/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs/Mental health 9.pdf",
+      "target_source_file": "Mental health 9.pdf",
+      "target_page": 127
+    }
+  ]
+}
