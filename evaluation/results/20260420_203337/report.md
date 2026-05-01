@@ -6,6 +6,20 @@
 - Baseline embedding model: `sentence-transformers/all-MiniLM-L6-v2`
 - PDF source path: `/Users/sebastianmcintosh/JANEA/JaneaAI/data/pdfs`
 
+## Modular Deep Learning and LLM Methods
+
+The code now groups the core AI methods in `janea_ai/deep_learning_llm_methods.py`
+so the implementation is easy to identify during review:
+
+- Transformer sentence embeddings encode document chunks and user questions as
+  dense semantic vectors.
+- Vector similarity retrieval searches embedded PDF chunks and returns the top
+  relevant context passages.
+- Retrieval augmented generation inserts retrieved context into the LLM prompt
+  before answer generation.
+- Safety-aware prompting guides the mental-health assistant toward supportive,
+  grounded, uncertainty-aware responses.
+
 ## Retrieval Ablation
 
 | Method | Recall@1 | Recall@3 | Recall@5 | MRR | Avg Latency (ms) | P95 Latency (ms) |

@@ -16,6 +16,7 @@ class Settings:
     pdf_source_path: Path
     chunk_size: int
     chunk_overlap: int
+    retrieval_k: int
 
 
 def _get_int(name: str, default: int) -> int:
@@ -50,4 +51,5 @@ def load_settings() -> Settings:
         pdf_source_path=Path(pdf_source),
         chunk_size=_get_int("CHUNK_SIZE", 500),
         chunk_overlap=_get_int("CHUNK_OVERLAP", 50),
+        retrieval_k=_get_int("RETRIEVAL_K", 4),
     )

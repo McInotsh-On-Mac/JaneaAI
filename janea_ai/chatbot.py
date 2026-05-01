@@ -3,20 +3,30 @@ from __future__ import annotations
 from typing import Any, Optional
 
 from .config import Settings, load_settings
-from .llm import initialize_llm
-from .qa import setup_qa_chain
-from .vector_db import load_or_create_vector_db
+from .deep_learning_llm_methods import (
+    DeepLearningLLMPipeline,
+    build_deep_learning_llm_pipeline,
+)
 
 
 class JaneaChatbot:
     def __init__(self, settings: Optional[Settings] = None) -> None:
         self.settings = settings or load_settings()
+        self.ai_pipeline: DeepLearningLLMPipeline | None = None
         self.qa_chain = None
 
     def initialize(self) -> None:
-        llm = initialize_llm(self.settings)
-        vector_db = load_or_create_vector_db(self.settings)
-        self.qa_chain = setup_qa_chain(vector_db, llm)
+        self.ai_pipeline = build_deep_learning_llm_pipeline(self.settings)
+        self.qa_chain = self.ai_pipeline.qa_chain
+
+    def method_summary(self) -> str:
+        if self.ai_pipeline is None:
+            return "Deep learning and LLM pipeline has not been initialized yet."
+
+        return "\n".join(
+            f"- {method.name} ({method.method_type}): {method.purpose}"
+            for method in self.ai_pipeline.methods
+        )
 
     def _format_history(self, history: Any, max_turns: int = 6) -> str:
         if not history:

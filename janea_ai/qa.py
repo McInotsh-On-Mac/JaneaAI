@@ -28,8 +28,8 @@ User:
 Assistant:"""
 
 
-def setup_qa_chain(vector_db: VectorStore, llm) -> RetrievalQA:
-    retriever = vector_db.as_retriever()
+def setup_qa_chain(vector_db: VectorStore, llm, search_k: int = 4) -> RetrievalQA:
+    retriever = vector_db.as_retriever(search_kwargs={"k": search_k})
     prompt = PromptTemplate(
         template=PROMPT_TEMPLATE,
         input_variables=["context", "question"],
